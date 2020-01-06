@@ -1,2 +1,3 @@
 # Reinforcement-Learning-
-some complementiong about reinforcement learning during my learning of RL
+
+## some complementiong about reinforcement learning algorithm during my learning of RL
