@@ -1,3 +1,7 @@
-# Reinforcement-Learning-
+# Reinforcement_Learning
 
-## some complementiong about reinforcement learning algorithm during my learning of RL
+## some complemention about reinforcement learning algorithm during my learning of RL
+
+### 1.DQN(Deep Q-learning Network)
+    
+### 2.
