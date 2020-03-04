@@ -4,4 +4,4 @@
 
 ### 1.DQN(Deep Q-learning Network)
     
-### 2.
+### 2.Policy Gradient
