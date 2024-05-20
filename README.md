@@ -13,7 +13,7 @@ DOI
 ### 1. Downloading AlphaTherapy
 
 代码：
-
+```
 git clone https://github.com/bm2-lab/AlphaTherapy.git
 
 ### 2. Downloading example data and example output of AlphaTherapy
